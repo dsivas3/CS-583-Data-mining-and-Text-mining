@@ -1,0 +1,7 @@
+{'Beef', 'Bread'}
+{'Bread', 'Cloth'}
+{'Bread', 'Cloth', 'Milk'} 
+{'Cheese', 'Boots'}
+{'Beef', 'Bread', 'Cheese', 'Shoes'} 
+{'Beef', 'Bread', 'Cheese', 'Milk'} 
+{'Bread', 'Milk', 'Cloth'}

@@ -1,0 +1,8 @@
+MIS(Beef) = 0.25
+MIS(Bread) = 0.70
+MIS(Milk) = 0.50
+MIS(Shoes) = 0.25
+MIS(Cheese) = 0.25
+MIS(Cloth) = 0.25
+MIS(Boots) = 0.25
+SDC = 1
