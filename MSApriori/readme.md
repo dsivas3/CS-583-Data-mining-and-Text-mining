@@ -4,7 +4,6 @@ DINESH ANAND SIVASUBRAMANIAN SURIANARAYANAN (dsivas3@uic.edu)
 GAUTAM (gautam5@uic.edu)
 
 
-
 Python(version 3) is used to implement MS Apriori Algorithm. 
 
 All files are given as command line arguments. Order is
@@ -13,6 +12,7 @@ Argument 2 - parameter.txt
 Argument 3 - output.txt
 
 Running command - python3 MSApriori.py input.txt parameter.txt output.txt
+
 
 Data file is required in which transactions are stored. Transactions are in the following form
 {1, 2}
